@@ -1,0 +1,11 @@
+Wadah 1 = 5 Liter
+Wadah 2 = 3 Liter
+
+4 Liter = 
+1. Wadah 1 -> Dikosongkan
+2. Wadah 2 diisi full -> Dituangkan ke Wadah 1 = Wadah 1 terisi 3 Liter dan wadah 2 kosong
+3. Wadah 2 diisi full -> Diruangkan ke wadah 1 = Wadah 1 terisi 5 Liter dan wadah 1 tersisa 1 liter
+4. Wadah 1 -> Dikosongkan
+5. Wadah 2 -> Dituangkan ke Wadah 1 = Wadah 1 terisi 1 liter dan wadah 2 kosong
+6. Wadah 2 diisi full -> dituangkan ke wadah 1 = wadah 1 terisi 4 Liter dan wadah 2 kosong
+7. jadi didapatkan 4 liter di wadah 1
