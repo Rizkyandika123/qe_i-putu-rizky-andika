@@ -1,0 +1,9 @@
+# Summary Tracking Management Tools
+
+Tracking management tools merupakan sebuah alat yang dapat membantu developer dalam mengerjakan tugas dan memantau proses yang terjadi dilapangan. tracking management tools yang sering digunakan adalah jira, jira merupakan alat bantu yang bertujuan untuk pelacakan bugs, pelacakan issue dan manajemen proyek.
+
+dalam proses pengerjaan project di jira tugas tugas dibagi menjadi beberapa hal yaitu to do, in progress, finish, deliver, need fix, done. todo merupakan panel yang berisi story yang akan dikerjakan dan sudah diprioritaskan saat planning, in progress merpakan panel yang berisi story yang sedang dikerjakan oleh developer, finish merupakan panel yang berisi story yang telah selesai dikerjakan oleh developer namun belum siap di testing, deliver merupakan panel yang berisi story yang sudah siap memasuki tahap testing oleh quality engineer, need fix merupakan panel yang berisi hasilproses testing yang tidak lolos criteria oleh team development, done merupakan panel yang berisi fitur fitur yang sudah lolos dari criteria testing oleh team development,
+
+dalam membuat project issue ada beberapa point yang perlu diperhatikan yaitu project, issue type, reporter, description, priority assignee dan sprint. issue memiliki beberapa tipe yaitu story, task, bug dan epic.stiry merupakan jenis issue yang bisaas digunakan untuk membuat fitur baru, task merupakan jenis issue yang biasa digunakan untuk melakukan perincian tugas tugas yang akan dikerjakan, bug merupakan jenis issue yang biasa digunakan jika terjadi penemuan bug saat proses testing oleh quality engineet, epic merupakan jenis issue untuk melakukan pengelompokan task
+
+apbila saat pengujian tester menemukan bug atau error perlu membuatissue bertipe bugs saat ditemukan ada yang tidak sesuai dengan criteria testing lalu memindahkan fitur yang berkaitan dengan bugs ke kolom in progress
