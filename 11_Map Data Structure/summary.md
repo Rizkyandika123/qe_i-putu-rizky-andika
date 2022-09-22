@@ -1,0 +1,7 @@
+# Summary Map Data Structure
+
+Map merupakan strktur data yang ada di java yang dapat digunakan untuk menyimpan banyak data didalamnya, data yang disimpan didalam map memiliki key, dan setiap key memiliki datanya sendiri yang disebut value, dengan demikian map juga disebut dengan penyimpanan data berbasis key value.Map memiliki banyak method yang bisa digunakan, pada umumnya method tersbut bisa digunakan untuk menambah, menghapus dan memeriksa isi dari map tersebut
+
+Terdapat beberapa bentuk map yang ada di java, yaitu hashmap, weakhashmap, identityhashmap, linkedhashmap, enumhashmap. hashmap merupakan implementasi dari map yang menggunakan algoritma struktur data hash table, weakhashmap juga menggunakan algortima struktur data hash table tetapi pada weakhashmap key dapat dihilangkan apabila sudah tidak digunakan, identityhashmap juga menerapkan algoritma hashtable tetapi jika key memiliki nilai atau velue yang berbeda maka akan dianggab sebagai data yang berbeda. linkedhashmap tidak memiliki perbedaan yang signifikan dengan hashmap yang biasa tapi secara internal linked hashmap menerapkan double liknedlist dan juga hash table sebagai struktur data di dalam mapnya.
+
+Map juga memiliki jenis map imutable. Imutable map aritnya tidak dapat diubah jadi map pada bentuk ini tidak dapat diubah isinya baik ditambah atau mengubah data yang ada, pada imutable map di java ada sorted map merupakan tipe map yang dapat diurutkan baik secara ascending dan decending, dan navigablemap yang masih termasuk sorted map namun memiliki methodd navigasai yang lebih lengkap.
