@@ -1,1 +1,5 @@
 # Summary Materi Behaviour Driven Development
+
+TDD (Test Driven Development) merupakan proses development software yang menerpakan penulisam test case sebelum developer membuat production code, proses tdd berfoukus pada komponen sistem dan tes case ditulis dalam bahasa bahasa pemrograman, behaviour dreiven develompment juga menerapkan konsep test first nmaun dengan fokus yang berbdea, dalam bdd test tim developer akan menuliskan berbagai skenario yang menjelaskan behaviiut sistem dari perspektif pengguna dengan emnggunakan bahasa yang mudah dipahami oleh seluruh stakehokder dalam pengembangan sistem , bdd memiliki tujuan utama utnutk meningkatkan ,omunikasi dan kolabari antara seluruh stakel=holdertim bisnis maupub teknikal yang telibat dalam pengambangan perangkat lunak , untuk akan mambuat seluruh yang terlibat dalam pengambangan stem memahami fitur fitur yang akan dibuat dengan baik sehingga fitur ynag dibuat dapat memenuhi kebutuhan pengguna dan menghasilkan bisnis value .
+
+Fiture files pada bdd ditulisakan menggunakan
